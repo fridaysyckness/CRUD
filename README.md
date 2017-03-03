@@ -15,7 +15,7 @@ Getting started
 5. Wait until Android Studio finishes building and indexing.
 6. Run Application
 
-## Enviroment
+## Environment
 This project has been build with Android Studio 2.3
 </br>SDK Build Tools version 25.0.2 
 </br>Minimum SDK version for the app is 14 (Android 4.0). 
