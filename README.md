@@ -7,6 +7,7 @@ Getting started
 
 2. Download the project
 > git clone https://github.com/fridaysyckness/CRUD.git
+<br/>
 > zip https://github.com/fridaysyckness/CRUD/archive/master.zip
 
 3. After you download the project open Android Studio. From there choose *Open an existing Android Studio project* or *File -> New -> Import Project..*
